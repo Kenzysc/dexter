@@ -1,3 +1,3 @@
-# dexter
+### DEXTER
 
-## A PLACE FOR MATIC BASED DEX ON THE MUMBAI TESTNET 
+# A site for matic decentralised exchange on the mumbai testnet
